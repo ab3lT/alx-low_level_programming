@@ -15,3 +15,7 @@ void print_alphabet(void)
 	}
 	_putchar(10);
 }
+int main(void)
+{ priny_alphabet();
+    return (0);
+		 }
